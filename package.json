@@ -1,27 +1,4 @@
 {
-  "_from": "expo-payments-stripe@~8.2.2",
-  "_id": "expo-payments-stripe@8.2.3",
-  "_inBundle": false,
-  "_integrity": "sha512-WS4sxvNbUBYxa0Di/G8nxNHhq1wWe3SxgU4vLybV852CSyq6wJ2z4ggRpxUQOQiVGS96K9d62mZdLx6PHQs59g==",
-  "_location": "/expo-payments-stripe",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "range",
-    "registry": true,
-    "raw": "expo-payments-stripe@~8.2.2",
-    "name": "expo-payments-stripe",
-    "escapedName": "expo-payments-stripe",
-    "rawSpec": "~8.2.2",
-    "saveSpec": null,
-    "fetchSpec": "~8.2.2"
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/expo-payments-stripe/-/expo-payments-stripe-8.2.3.tgz",
-  "_shasum": "7e7dadd62d80fe4e48d7e6bfe43adcbb47d314ef",
-  "_spec": "expo-payments-stripe@~8.2.2",
-  "_where": "/Users/otipass/Desktop/Git/otipass-ot-v3.app-store-react",
   "author": {
     "name": "650 Industries, Inc."
   },
@@ -37,15 +14,7 @@
   "devDependencies": {
     "expo-module-scripts": "~1.2.0"
   },
-  "gitHead": "6b7773b6ea80a9805cae90e1faf3195caa7f2389",
   "homepage": "https://docs.expo.io/versions/latest/sdk/payments/",
-  "keywords": [
-    "react-native",
-    "expo",
-    "payments-stripe",
-    "payments",
-    "stripe"
-  ],
   "license": "MIT",
   "main": "build/index.js",
   "name": "expo-payments-stripe",
@@ -53,21 +22,9 @@
     "react": "*",
     "react-native": "*"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/expo/expo.git",
-    "directory": "packages/expo-payments-stripe"
-  },
   "scripts": {
-    "build": "expo-module build",
-    "clean": "expo-module clean",
-    "expo-module": "expo-module",
-    "lint": "expo-module lint",
-    "prepare": "expo-module prepare",
-    "prepublishOnly": "expo-module prepublishOnly",
     "test": "expo-module test"
   },
-  "sideEffects": false,
   "types": "build/index.d.ts",
   "unimodulePeerDependencies": {
     "@unimodules/core": "*"
